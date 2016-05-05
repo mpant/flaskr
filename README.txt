@@ -7,6 +7,7 @@ in MigrateUp devops trainings.
 See README.upstream and LICENSE.upstream for original
 documentation. Taken from the flask 0.10.1 source code.
 
+hello
 LICENSE
 
 Original Flaskr source is copyright the original authors. See
